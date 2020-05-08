@@ -1,5 +1,5 @@
 puts "hello ruby!"
 puts "hello rails!"
 
-stat = "Hi from iphone!"
+stat = "Hi phone!"
 puts stat
